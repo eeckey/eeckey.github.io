@@ -1,7 +1,7 @@
 # Emily Eckey
 GEOG 458 Sp 22: Advanced Digital Geographies, Section AC\
 Lab 1: Project Management Using GitHub\
-April 8, 2022\
+April 8, 2022
 
 - [Contact Me](mailto:eeckey@uw.edu)
 - [My Portfolio](https://emieckey.myportfolio.com/)
@@ -27,7 +27,7 @@ Expected Graduation: June 2023
 -	Adapts lesson plans and teaching style throughout the quarter to maintain class engagement and best address student’s needs and interests, ensuring a high-quality experience for students
 
 
-##### Media Marketing Assistant, The Vital Lawyer (March 2021 – August 2021)
+#### Media Marketing Assistant, The Vital Lawyer (March 2021 – August 2021)
 -	Created unique branding and engaging content on LinkedIn, Facebook, and YouTube accounts by marketing content specific to legal professionals
 -	Planned 8+ events through Wix and managed paid registration. Designed and maintained Wix website
 
