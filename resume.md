@@ -21,18 +21,18 @@ Expected Graduation: June 2023
 
 # Work Experience
 
-####[First-year Interest Group Leader](https://fyp.washington.edu/first-year-interest-groups/fig-leaders/), University of Washington First Year Programs (March 2021 - Present)
+###[First-year Interest Group Leader](https://fyp.washington.edu/first-year-interest-groups/fig-leaders/), University of Washington First Year Programs (March 2021 - Present)
 -	Creates and delivers 10-week curriculum for General Studies: University Community course
 -	Designs lesson plans, presentations, worksheets, and in-class discussions for 25 students about major exploration, critical thinking and research, and leadership
 -	Adapts lesson plans and teaching style throughout the quarter to maintain class engagement and best address student’s needs and interests, ensuring a high-quality experience for students
 
 
-####Media Marketing Assistant, The Vital Lawyer (March 2021 – August 2021)
+###Media Marketing Assistant, The Vital Lawyer (March 2021 – August 2021)
 -	Created unique branding and engaging content on LinkedIn, Facebook, and YouTube accounts by marketing content specific to legal professionals
 -	Planned 8+ events through Wix and managed paid registration. Designed and maintained Wix website
 
 
-####Freelance Web Designer, [Golden Journey Empowerment](https://www.goldenjourneyempowerment.org/?fbclid=IwAR2OF9nf_ok-zDssfEeo0mQMBVjfMLHMFhyFcHgGjzNowtR1vCy78StyIOc) (August 2020 – March 2021)
+###Freelance Web Designer, [Golden Journey Empowerment](https://www.goldenjourneyempowerment.org/?fbclid=IwAR2OF9nf_ok-zDssfEeo0mQMBVjfMLHMFhyFcHgGjzNowtR1vCy78StyIOc) (August 2020 – March 2021)
 -	Web Designer for non-profit organization dedicated to reducing racial injustice in breastfeeding for Black women
 -	Worked independently and with organization Director on conceptualizing website design and optimization
 
